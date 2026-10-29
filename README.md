@@ -70,7 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
-In the Japanese Grand Prix, the winner VER used Medium and Hard tyres. In the British Grand Prix, the winner NOR used Intermediate and Medium tyres, which was different from the other two races. In the Dutch Grand Prix, the winner PIA used Medium and Hard tyres, similar to VER in Japan.
+In the Japanese Grand Prix, STR differed most from the winner VER because he used Soft, Hard, and Medium tyres instead of Medium and Hard. In the British Grand Prix, STR differed most from the winner NOR because he switched between Intermediate and Soft tyres several times. In the Dutch Grand Prix, SAI differed most from the winner PIA because he used five tyre stints, including several Soft tyre stints.
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
