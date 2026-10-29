@@ -70,6 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
+In the Japanese Grand Prix, most drivers used Medium and Hard tyres, similar to the winner VER. However, STR used Soft, Hard, and Medium tyres, which was different from the winner's strategy. He also made two tyre changes, while the winner only made one.
 >
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
