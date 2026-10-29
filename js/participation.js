@@ -163,7 +163,7 @@ onRaceChange(race => {
 
     // TODO STEP 8: look at the chart for each race. Who deviated most from the winner's strategy?
     // Write your answer (3 sentences) at the bottom of README.md, under "Participation answer".
-    
+
     // TODO STEP 6 (continued): from the next race change on, animate
     duration = 750;
     });
