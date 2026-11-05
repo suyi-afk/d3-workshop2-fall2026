@@ -75,10 +75,11 @@ In the Japanese Grand Prix, STR differed most from the winner VER because he use
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
+In the 2025 Japanese Grand Prix, the race trace shows how the time gaps between drivers change during the race. Around laps 20–25, some drivers have sudden changes in their gaps, which may be caused by pit stops. A normal lap time chart shows the time for each lap, but it is difficult to see how the gaps build up over the whole race.
 >
 
 **Bonus** (optional): which race did you add, and why?
-
+I added the 2024 Chinese Grand Prix because I am from China, so I was interested in seeing the race in Shanghai. I wanted to explore the drivers' performance and tyre strategies in this race.
 >
 
 ---
